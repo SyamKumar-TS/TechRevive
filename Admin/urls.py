@@ -2,6 +2,7 @@ from django.urls import path
 from Admin import views 
 app_name="webadmin"
 
+
 urlpatterns = [
     path('district/', views.district,name="district"),
     path('del/<int:did>', views.deldis,name="deldis"),
