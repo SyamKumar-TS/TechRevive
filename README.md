@@ -1,5 +1,5 @@
-﻿# Fix-Your-Gadgets
- "FIX YOUR GADGETS" is an innovative, Python-based web application developed to 
+﻿# TechRevive
+ "TechRevive" is an innovative, Python-based web application developed to 
 address the increasing demand for convenient and accessible gadget repair services. In 
 today’s world, where we rely heavily on electronic devices like smartphones, laptops, and 
 smartwatches, the need for prompt and efficient repair solutions is essential. This platform 
