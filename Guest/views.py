@@ -5,7 +5,7 @@ from django.core.mail import send_mail
 from django.conf import settings
 import random
 
-# Create your views here.
+# Create your views here .
 
 def Reg(request):
     dis=District.objects.all()
