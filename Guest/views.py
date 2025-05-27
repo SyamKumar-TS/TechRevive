@@ -108,5 +108,5 @@ def CreatePass(request):
 
 
 
-def home(request):
+def home(request) :
     return render(request,"Guest/Home.html")
